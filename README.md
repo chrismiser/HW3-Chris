@@ -1,5 +1,5 @@
 # HW3-Chris
 
 # Git Tutorial Screenshots
-![hello](gitStuff1.jpg)
-![hello](gitStuff2.jpg)
+![hello](images/gitStuff1.jpg)
+![hello](images/gitStuff2.jpg)
